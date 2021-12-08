@@ -23,6 +23,10 @@ const App = () => {
     });
   };
 
+  // const changeSelectGif = (newSelectedGifId) => {
+  //   setSelectedGif(newSelectedGifId);
+  // };
+
   return (
     <div>
       <div className="left-scene">
